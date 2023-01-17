@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from re import match, sub
 from colorama import Fore, Back, Style
 from os import system
